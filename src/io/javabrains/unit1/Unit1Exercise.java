@@ -14,6 +14,7 @@ public class Unit1Exercise {
 				new Person("Thomas", "Carlyle", 51),
 				new Person("Charlotte", "Bronte", 45),
 				new Person("Matthew", "Arnold", 39)
+                                new Person("Rajesh", "Chavan", 29)
 				);
 		
 		// Step 1: Sort list by last name
